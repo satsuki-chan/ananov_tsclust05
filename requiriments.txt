@@ -1,0 +1,9 @@
+TSclust==1.2.3
+xts==0.9-7 
+zoo==1.7-11
+wmtsa==2.0-0
+splus2R==1.2-0
+ifultools==2.0-1
+MASS==7.3-45
+pdc==1.0.3
+cluster==2.0.3
