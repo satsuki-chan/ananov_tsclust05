@@ -8,7 +8,7 @@ Platform: x86_64-suse-linux-gnu (64-bit)
 
 ##Aditional R packages:
 ###TSclust - Version >= 1.2.3
->**Pablo Montero and Jos{\'e} A. Vilar (2014)**. *TSclust: An R Package for Time Series Clustering*. R package version 1.2.3. Journal of Statistical Software, 62(1), 1-43.
+>**Pablo Montero and José A. Vilar (2014)**. *TSclust: An R Package for Time Series Clustering*. R package version 1.2.3. Journal of Statistical Software, 62(1), 1-43.
 
 >http://www.jstatsoft.org/v62/i01/
 
